@@ -18,7 +18,7 @@
 <h3 align="left">🔗Connect with me:</h3>
 
 <p align="left"> 
-  <a href="https://https://www.linkedin.com/in/royaryan952/">
+  <a href="https://www.linkedin.com/in/royaryan952">
   <img src="https://skillicons.dev/icons?i=linkedin&perline=10">
   </a>
   
