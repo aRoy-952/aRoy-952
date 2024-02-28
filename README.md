@@ -6,7 +6,7 @@
 <h4 align="center">Flutter App Developer seeking internship opportunities.</h4>
 
 
-- 🌱 I’m currently learning **Backend part**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
