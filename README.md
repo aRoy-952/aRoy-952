@@ -3,16 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF702&center=true&vCenter=true&width=435&lines=Hi+this+is+Aryan+Roy.;Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 <h4 align="center">BTech Information Technology 🎓 Final Year Student.</h4>
-<h4 align="center">Flutter App Developer seeking internship opportunities.</h4>
+<h4 align="center">React Native App Developer seeking internship opportunities.</h4>
 
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **React Native Projects**
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **aryanroy853476@gmail.com**
+- 📫 You can reach me  **aryanroy853476@gmail.com**
 ---
 
 <h3 align="left">🔗Connect with me:</h3>
