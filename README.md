@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **React Native Projects**
+- 👯 I’m looking to collaborate on **React Native and Flutter Projects**
 
 - 📫 You can reach me  **aryanroy853476@gmail.com**
 ---
